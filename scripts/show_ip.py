@@ -1,10 +1,14 @@
 from netmiko import ConnectHandler
 
+username = input("Enter username: ")
+password = input("Enter password: ")
+
 router = {
     "device_type": "cisco_ios",
     "host": "192.168.16.131",
-    "username": "madhu",
-    "password": "madhu",
+    "username": username,
+    "password": password,
+
 }
 
 print("Connecting to R1...")

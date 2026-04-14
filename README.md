@@ -49,6 +49,35 @@ Connects to a device and retrieves the full running configuration.
 Fetches interface details using `show ip interface brief`.
 
 ---
+## 📊 Lab Topologies
+
+### 🔹 Overall Lab Setup
+The lab topology consists of a Cisco router (R1) with IP address `192.168.16.131`, an Ubuntu server with IP `192.168.16.130`, and a switch connecting the devices to the cloud network. This setup is used to perform SSH-based network automation using Python and Netmiko.
+
+![Overall Topology](Topology.png)
+
+### 🔹 Run Config Lab
+This lab demonstrates retrieving the running configuration from a Cisco device using automation.
+
+![Run Config Output](Run_config_topology_output1.png)
+
+---
+
+### 🔹 Run Config Output
+Output of the automated `show run` command.
+
+![Run Config Output](Run_config_topology_output2.png)
+
+
+---
+
+### 🔹 Show IP Interface Output
+Output of `show ip interface brief`.
+
+![Show IP Output](Show_ip_topology_output.png)
+
+---
+
 
 🔐 Security Note
 

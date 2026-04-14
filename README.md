@@ -79,6 +79,12 @@ Output of `show ip interface brief`.
 
 ![Show IP Output](/images/Show_ip_topology_output.png)
 
+### 🔹 Health Check Output
+Output of the health check script using `show ip interface brief` to identify interface status and detect issues.
+
+![Show health_check Output](/images/health_check_output.png)
+
+
 ---
 
 

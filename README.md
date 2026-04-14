@@ -10,7 +10,7 @@ The project focuses on connecting to Cisco devices via SSH, executing commands, 
 
 ## 👨‍💻 About Me
 
-I am currently learning Network Automation and exploring how Python can be used to simplify and automate networking tasks.
+I am learning Network Automation using Python and building projects to improve my skills. With a CCNA background, I aim to grow into a network automation role.
 
 ---
 

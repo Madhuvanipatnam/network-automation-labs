@@ -53,7 +53,7 @@ Fetches interface details using `show ip interface brief`.
 
 ### 🔹 health_check.py
 
-Output of the health check script using `show ip interface brief` to identify interface status and detect issues. The script also generates a report file (`health_report.txt`) for logging and future analysis.
+Performs a network health check by analyzing interface status using `show ip interface brief`, detecting issues, and generating a report file (`health_report.txt`) for logging and future analysis.
 
 ---
 ## 📊 Lab Topologies

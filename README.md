@@ -51,6 +51,10 @@ Connects to a device and retrieves the full running configuration.
 
 Fetches interface details using `show ip interface brief`.
 
+### 🔹 health_check.py
+
+Output of the health check script using `show ip interface brief` to identify interface status and detect issues. The script also generates a report file (`health_report.txt`) for logging and future analysis.
+
 ---
 ## 📊 Lab Topologies
 

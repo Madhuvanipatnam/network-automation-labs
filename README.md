@@ -2,9 +2,12 @@
 
 ## 📌 Overview
 
-This repository contains my hands-on practice in Network Automation using Python and Netmiko. As a learner, I am building and testing automation scripts in a lab environment to understand how real-world network operations can be automated.
+This repository contains my hands-on practice in Network Automation using Python and Netmiko. As part of my learning journey, I built a lab environment using Ubuntu Server, VMware, and GNS3 VM to simulate real network scenarios.
 
-The project focuses on connecting to Cisco devices via SSH, executing commands, and retrieving outputs programmatically.
+I used Visual Studio Code for development, MobaXterm for remote connectivity, and GitHub for version control. Within this setup, I developed automation scripts to connect to Cisco devices via SSH, execute commands, and retrieve outputs programmatically.
+
+This project reflects my effort to bridge networking concepts with automation using Python.
+
 
 ---
 

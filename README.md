@@ -94,7 +94,7 @@ Output of the health check script using `show ip interface brief` to identify in
 
 🔐 Security Note
 
-* No credentials are stored in the code
+* Credentials are stored in the code for reference purposes
 * Username and password are taken as input during runtime
 * All IP addresses belong to a local lab environment
 
